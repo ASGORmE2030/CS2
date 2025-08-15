@@ -1,4 +1,8 @@
-Version 1.0.0
+# CHANGELOG
+
+---
+
+##Version 1.0.0
 -Introduction to MoodMate. (Cupay)
 -Added the feature to interact with the app by inputing how a person feels. (Gorme)
 -Added several emotions for versatility. (Ladaran)

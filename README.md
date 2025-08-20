@@ -1,4 +1,4 @@
-#MoodMate
+# MoodMate
 
 ## Project objectives
 This app is to help people understand themselves and their emotions.
